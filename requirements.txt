@@ -13,4 +13,3 @@ pipwin==0.5.2
 tzlocal==4.3
 urllib3==1.26.15
 pyttsx3==2.71
-libespeak.so
