@@ -13,7 +13,7 @@ pipwin==0.5.2
 tzlocal==4.3
 urllib3==1.26.15
 pyttsx3==2.71
-py-espeak-ng==0.1.8
 typing_extensions==4.5.0
 pytz==2023.3
 sqlparse==0.4.4
+py-espeak-ng==0.1.0
