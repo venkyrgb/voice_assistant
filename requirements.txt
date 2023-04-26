@@ -10,7 +10,6 @@ idna==3.4
 Js2Py==0.74
 packaging==23.0
 pipwin==0.5.2
-PyAudio @ file:///C:/Users/VENKATESH/pipwin/PyAudio-0.2.11-cp311-cp311-win_amd64.whl
 pyjsparser==2.7.1
 pypiwin32==223
 PyPrind==2.11.3
